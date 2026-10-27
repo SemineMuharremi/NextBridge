@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+  <course>
+    <title>Web Development</title>
+    <time>3 Months</time>
+    <description>Learn HTML, CSS, and JavaScript basics.</description>
+  </course>
+
+  <course>
+    <title>Graphic Design</title>
+    <time>2 Months</time>
+    <description>Create modern and creative designs.</description>
+  </course>
+
+   <course>
+    <title>Piano </title>
+    <time>4 Months</time>
+    <description>Be an artist as u should.</description>
+  </course>
+</courses>
+
+<!--Ne homme html te ajo pjesa qe ekam pas fature courses e bona me u shtu me xml -->
